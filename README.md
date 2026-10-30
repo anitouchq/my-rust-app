@@ -1,9 +1,4 @@
 # 🦀 my-rust-app
-<img width="1674" height="500" alt="image" src="https://github.com/user-attachments/assets/48a50e21-b648-4504-9661-04514f0aaa7e" />
-
-Учебный проект: **CI-пайплайн на GitHub Actions** для Rust-приложения.
-
----
 
 ## 📖 О проекте
 
@@ -51,8 +46,6 @@ Hello from Rust in Docker! 🦀
 * **Cargo**
 * **rustfmt** / **clippy**
 * **Docker** — multi-stage сборка
-* **GitHub Actions** — CI
-
 ---
 
 ## 📄 Лицензия
