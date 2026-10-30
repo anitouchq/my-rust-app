@@ -32,7 +32,7 @@ docker run --rm my-rust-app:latest
 
 **Ожидаемый вывод:**
 
-<img width="1193" height="749" alt="image" src="https://github.com/user-attachments/assets/3cc6f28e-6148-476c-a6f5-518c10e1334f" />
+<img width="1583" height="994" alt="photo_5413821073230340030_w" src="https://github.com/user-attachments/assets/42925452-995c-4b2f-aa7a-4d76e90049a2" />
 
 ```text
 Hello from Rust in Docker! 🦀
